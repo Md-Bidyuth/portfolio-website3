@@ -69,6 +69,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     color:white;
+    display:flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .icon{
@@ -85,4 +88,32 @@
     color:black;
     border-radius:5px;
     
+}
+
+.service-description{
+    width:50%;
+}
+
+.first-two-box{
+    display:flex;
+    gap: 5px;
+    margin-top:5px;
+}
+
+.author-img{
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+}
+
+.author-container{
+    display:flex;
+    gap: 100px;
+    align-items: center;
+}
+
+.profile-container{
+    display:flex;
+    align-items: center;
+    gap: 10px;
 }
