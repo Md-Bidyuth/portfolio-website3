@@ -116,4 +116,6 @@
     display:flex;
     align-items: center;
     gap: 10px;
+    border-right: 2px solid red;
+    padding-right: 50px;
 }
