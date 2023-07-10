@@ -138,3 +138,32 @@
     margin-top:-60px;
     gap: 40px;
 }
+
+.blog-title{
+    color:black;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card{
+    width: 220px;
+    height: 320px;
+    box-shadow: 4px 8px 4px gray;
+    border-radius: 5px;
+
+}
+
+.blog-img{
+    width:100%;
+}
+
+.card-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
